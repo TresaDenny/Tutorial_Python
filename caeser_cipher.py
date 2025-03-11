@@ -1,3 +1,5 @@
+#Encryption
+
 inputstr = input("Enter the input string:")
  key = int(input("Enter the key value:"))
  encrypt_text = ""
